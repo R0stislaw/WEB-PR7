@@ -47,6 +47,18 @@
             "prevPrice" : "3 333₴",
             "price" : "2 496₴",
             "promotional" : true
+        },
+        {
+            "newItem" : false,
+            "hotItem" : false,
+            "category" : "Software",
+            "photo" : "image/steam.jpg",
+            "name" : "Steam Wallet Gift Card $10",
+            "comingSoon" : false,
+            "sale" : false,
+            "prevPrice" : "",
+            "price" : "2 496₴",
+            "promotional" : false
         }
     ]
 }
