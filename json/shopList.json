@@ -7,8 +7,8 @@
             "photo" : "image/win11.jpg",
             "name" : "Операційна система Windows 11 Для дому на 1ПК",
             "comingSoon" : false,
-            "sale" : false,
-            "prevPrice" : "",
+            "sale" : true,
+            "prevPrice" : "5 999₴",
             "price" : "6 999₴"
         },
         {
@@ -18,8 +18,8 @@
             "photo" : "image/win365.jpg",
             "name" : "Microsoft 365 Сімейний, підписка 1 рік, до 6 користувачів",
             "comingSoon" : false,
-            "sale" : true,
-            "prevPrice" : "4 199",
+            "sale" : false,
+            "prevPrice" : "",
             "price" : "3 399₴"
         }
     ]
