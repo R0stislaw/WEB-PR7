@@ -3,24 +3,46 @@
         {
             "newItem" : false,
             "hotItem" : true,
-            "category" : "Програмне забезпечення",
+            "category" : "Software",
             "photo" : "image/win11.jpg",
             "name" : "Операційна система Windows 11 Для дому на 1ПК",
             "comingSoon" : false,
             "sale" : true,
-            "prevPrice" : "5 999₴",
-            "price" : "6 999₴"
+            "prevPrice" : "6 999₴",
+            "price" : "5 999₴"
         },
         {
             "newItem" : true,
             "hotItem" : false,
-            "category" : "Програмне забезпечення",
+            "category" : "Software",
             "photo" : "image/win365.jpg",
             "name" : "Microsoft 365 Сімейний, підписка 1 рік, до 6 користувачів",
             "comingSoon" : false,
             "sale" : false,
             "prevPrice" : "",
             "price" : "3 399₴"
+        },
+        {
+            "newItem" : false,
+            "hotItem" : false,
+            "category" : "Software",
+            "photo" : "image/antiv1.jpg",
+            "name" : "Антивірус ESET HOME Security Premium (2 ПК) ліцензія на 12 місяців (електронний ключ у конверті)",
+            "comingSoon" : true,
+            "sale" : false,
+            "prevPrice" : "",
+            "price" : ""
+        },
+        {
+            "newItem" : false,
+            "hotItem" : false,
+            "category" : "Software",
+            "photo" : "image/xbox.jpg",
+            "name" : "Xbox Game Pass Ultimate - 12 місяців (Xbox One/Series та Windows 10/11) підписка для всіх регіонів та країн",
+            "comingSoon" : false,
+            "sale" : true,
+            "prevPrice" : "3 333₴",
+            "price" : "2 496₴"
         }
     ]
 }
