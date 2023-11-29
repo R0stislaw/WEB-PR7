@@ -2,7 +2,7 @@
     "items" : [
         {
             "newItem" : false,
-            "hotItem" : false,
+            "hotItem" : true,
             "category" : "Програмне забезпечення",
             "photo" : "image/win11.jpg",
             "name" : "Операційна система Windows 11 Для дому на 1ПК",
@@ -12,8 +12,8 @@
             "price" : "5 939₴"
         },
         {
-            "newItem" : false,
-            "hotItem" : true,
+            "newItem" : true,
+            "hotItem" : false,
             "category" : "Програмне забезпечення",
             "photo" : "image/win365.jpg",
             "name" : "Microsoft 365 Сімейний, підписка 1 рік, до 6 користувачів",
