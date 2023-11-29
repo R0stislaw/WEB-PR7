@@ -1,64 +1,64 @@
 {
-    "items" : [
-        {
-            "newItem" : false,
-            "hotItem" : true,
-            "category" : "Software",
-            "photo" : "image/win11.jpg",
-            "name" : "Операційна система Windows 11 Для дому на 1ПК",
-            "comingSoon" : false,
-            "sale" : true,
-            "prevPrice" : "6 999₴",
-            "price" : "5 999₴",
-            "promotional" : false
-        },
-        {
-            "newItem" : true,
-            "hotItem" : false,
-            "category" : "Software",
-            "photo" : "image/win365.jpg",
-            "name" : "Microsoft 365 Сімейний, підписка 1 рік, до 6 користувачів",
-            "comingSoon" : false,
-            "sale" : false,
-            "prevPrice" : "",
-            "price" : "3 399₴",
-            "promotional" : false
-        },
-        {
-            "newItem" : false,
-            "hotItem" : false,
-            "category" : "Software",
-            "photo" : "image/antiv1.jpg",
-            "name" : "Антивірус ESET HOME Security Premium (2 ПК) ліцензія на 12 місяців (електронний ключ у конверті)",
-            "comingSoon" : true,
-            "sale" : false,
-            "prevPrice" : "",
-            "price" : "",
-            "promotional" : false
-        },
-        {
-            "newItem" : false,
-            "hotItem" : false,
-            "category" : "Software",
-            "photo" : "image/xbox.jpg",
-            "name" : "Xbox Game Pass Ultimate - 12 місяців",
-            "comingSoon" : false,
-            "sale" : true,
-            "prevPrice" : "3 333₴",
-            "price" : "2 496₴",
-            "promotional" : true
-        },
-        {
-            "newItem" : false,
-            "hotItem" : false,
-            "category" : "Software",
-            "photo" : "image/steam.jpg",
-            "name" : "Steam Wallet Gift Card $10",
-            "comingSoon" : false,
-            "sale" : false,
-            "prevPrice" : "",
-            "price" : "2 496₴",
-            "promotional" : false
-        }
-    ]
+  "items": [
+    {
+      "newItem": false,
+      "hotItem": true,
+      "category": "Software",
+      "photo": "image/win11.jpg",
+      "name": "Операційна система Windows 11 Для дому на 1ПК",
+      "comingSoon": false,
+      "sale": true,
+      "prevPrice": "6 999₴",
+      "price": "5 999₴",
+      "promotional": false
+    },
+    {
+      "newItem": true,
+      "hotItem": false,
+      "category": "Software",
+      "photo": "image/win365.jpg",
+      "name": "Microsoft 365 Сімейний, підписка 1 рік, до 6 користувачів",
+      "comingSoon": false,
+      "sale": false,
+      "prevPrice": "",
+      "price": "3 399₴",
+      "promotional": false
+    },
+    {
+      "newItem": false,
+      "hotItem": false,
+      "category": "Software",
+      "photo": "image/antiv1.jpg",
+      "name": "Антивірус ESET HOME Security Premium (2 ПК) ліцензія на 12 місяців",
+      "comingSoon": true,
+      "sale": false,
+      "prevPrice": "",
+      "price": "",
+      "promotional": false
+    },
+    {
+      "newItem": false,
+      "hotItem": false,
+      "category": "Software",
+      "photo": "image/xbox.jpg",
+      "name": "Xbox Game Pass Ultimate - 12 місяців",
+      "comingSoon": false,
+      "sale": true,
+      "prevPrice": "3 333₴",
+      "price": "2 496₴",
+      "promotional": true
+    },
+    {
+      "newItem": false,
+      "hotItem": false,
+      "category": "Software",
+      "photo": "image/steam.jpg",
+      "name": "Steam Wallet Gift Card $10",
+      "comingSoon": false,
+      "sale": false,
+      "prevPrice": "",
+      "price": "2 496₴",
+      "promotional": false
+    }
+  ]
 }
