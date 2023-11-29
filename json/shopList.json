@@ -1,9 +1,9 @@
 {
     "items" : [
         {
-            "newItem" : true,
+            "newItem" : false,
             "hotItem" : false,
-            "category" : "ПЗ",
+            "category" : "Програмне забезпечення",
             "photo" : "image/win11.jpg",
             "name" : "Операційна система Windows 11 Для дому на 1ПК",
             "comingSoon" : false,
@@ -13,8 +13,8 @@
         },
         {
             "newItem" : false,
-            "hotItem" : false,
-            "category" : "ПЗ",
+            "hotItem" : true,
+            "category" : "Програмне забезпечення",
             "photo" : "image/win365.jpg",
             "name" : "Microsoft 365 Сімейний, підписка 1 рік, до 6 користувачів",
             "comingSoon" : false,
